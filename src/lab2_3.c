@@ -40,10 +40,6 @@ int main(void) {
         printf("%d ", i);
       }
     }
-    do {
-      /* code */
-    } while (condition);
-
     printf("\n");
   }
 
