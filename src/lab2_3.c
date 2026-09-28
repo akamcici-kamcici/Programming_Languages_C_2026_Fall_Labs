@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Ahmet KAMCICI 241AEC014
+
 /*
     Task:
     Write a function `int is_prime(int n)` that returns 1 if n is prime,
@@ -38,6 +40,10 @@ int main(void) {
         printf("%d ", i);
       }
     }
+    do {
+      /* code */
+    } while (condition);
+
     printf("\n");
   }
 
